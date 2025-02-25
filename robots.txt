@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://Salah-Chaib.github.io/al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://Salah-Chaib.github.io/portfolio/sitemap.xml
